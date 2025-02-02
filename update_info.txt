@@ -1,5 +1,5 @@
 version=1.1
 url=https://github.com/MAAFA-eng/CenseurMF/releases/download/v1.1-CenseurMF/CenseurMF.zip
 description='برنامج مساعد لتسيير المؤسسات التربوية'
-note1='نسخة 1.1: تم تصحيح الإختلال في جدول إستعمال الزمن للأقسام'
-note2='Version 1.1: Fixed a bug in the time usage table for sections.'
+note1=نسخة 1.1: تم تصحيح الإختلال في جدول إستعمال الزمن للأقسام
+note2=Version 1.1: Fixed a bug in the time usage table for sections.

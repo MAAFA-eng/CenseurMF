@@ -1,5 +1,5 @@
-version=1.4
+version=1.5
 url=https://github.com/MAAFA-eng/CenseurMF/releases/download/v1.1-CenseurMF/CenseurMF.zip
 description='برنامج مساعد لتسيير المؤسسات التربوية'
-note1=نسخة 1.4: إضافة محرر وثائق / شهادة مدرسية
-note2=Version 1.4: Add document editor// School certificate.
+note1= نسخة 1.5: إضافة الإشعارات / خاصية البحث / إضرابات
+note2=Version 1.5: Added notifications / search feature / strikese.

@@ -1,5 +1,5 @@
-version=1.61
+version=1.60
 url=https://github.com/MAAFA-eng/CenseurMF/releases/download/v1.1-CenseurMF/CenseurMF.zip
 description='برنامج مساعد لتسيير المؤسسات التربوية'
 note1= نسخة 1.6: إضافة قوائم تلاميذ و أساتذة / إضافة خاصية الملاحظات في التقرير اليومي
-note2=Version 1.61
+note2=Version 1.60

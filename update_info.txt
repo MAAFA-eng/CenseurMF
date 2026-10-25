@@ -1,5 +1,5 @@
-version=1.10
+version=1.0.1
 url=https://github.com/MAAFA-eng/CenseurMF/releases/download/v1.1-CenseurMF/CenseurMF.zip
 description='برنامج مساعد لتسيير المؤسسات التربوية'
-note1= نسخة 1.66:  تحسينات في طريقة معالجة البيانات /تسيير الإختبارات - تحكم في مواقيت المواد لإنجاز إستعمال الزمن
-note2=Version 1.10
+note1= نسخة 1.0.1:  تحسينات في طريقة معالجة البيانات /تسيير الإختبارات - تحكم في مواقيت المواد لإنجاز إستعمال الزمن
+note2=Version 1.0.1
